@@ -2,5 +2,7 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+for i in range(3):
+    print('Looking good!)
+    
 Use the left arrow to go back!
